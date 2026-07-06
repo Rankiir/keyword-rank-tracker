@@ -1,0 +1,26 @@
+{
+  "name": "rankiir-keyword-rank-tracker",
+  "version": "1.0.0",
+  "description": "Keyword Rank Tracker tracks keyword rankings and monitors SEO position changes over time",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "keyword-rank-tracker",
+    "rank-tracker",
+    "seo",
+    "keyword-tracking",
+    "serp",
+    "position-tracking",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/keyword-rank-tracker.git"
+  }
+}
